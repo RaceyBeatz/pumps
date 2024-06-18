@@ -13,14 +13,18 @@ output:
 ---
 
 
+
+
 Dear Colleagues,
 
 We are writing to inform you of a critical issue regarding the AutoFuser elastomeric pumps currently in use within our Trust. Recent observations and reports have highlighted significant discrepancies in the delivery rates of these pumps, necessitating immediate attention and action.
 
-![**Figure 1** system failure means it is (rarely delivering double the volume per hour, see text)](IMG_8162.jpeg){width=40%}
+![**Figure 1** System failure means it is (rarely)  delivering double the volume per hour, see text.](IMG_8162.jpeg){width=40%}
 
-![**Figure 2** there is a failure with the flow control](IMG_8163.jpeg){width=40%}
+![**Figure 2** There is a failure with the flow control system. We are trying to contact the manufacturer](IMG_8163.jpeg){width=40%}
 
+
+Website: https://ace-medical.com/?page_id=2075
 
 **Summary of Issues:**
 
@@ -40,15 +44,19 @@ We are writing to inform you of a critical issue regarding the AutoFuser elastom
 1. **Alternative Methods of Analgesia**:
 
    - **Epidural Pumps**: 
+   
    Where appropriate, especially for patients with rib fractures, consider the use of epidural pumps. These should be used on Major Trauma or surgical wards where feasible.
    
    - **Bolus Dosing**: 
+   
    This method, while staff-intensive, allows for precise control over dosing and should be considered where no alternative can be found, for example an elderly 45 kg patient going to a medical ward: let the Pain Team know and we can arrange surtiable bolus dosing.
    
 2. **Enhanced Monitoring**:
 
    - **Pain Team Involvement**:
+   
    Ensure the Pain Team is informed of and involved in monitoring all elastomeric pumps currently in use.
+   
    - **Regular Checks**: 
    Ensure nursing staff are alert to the issue and perform regular checks to verify that the pumps are delivering medication at the correct rate.
 
@@ -59,6 +67,8 @@ We are writing to inform you of a critical issue regarding the AutoFuser elastom
 **Efforts to Resolve the Issue:**
 
 Please be assured that we are working hard to resolve this issue, including placing a temporary order for alternative pumps. However, these devices are niche and subject to market fluctuations in production and cost, which complicates the procurement process. This underlines our commitment to seeking a sustainable and environmentally friendly solution.
+
+In the shortterm, we are looking at: CareVis Vario Infusion pump by Pajunk, see Appendix 1, if interested. Though we would see this as a temporary solution for cost and environmental reasons.
 
 
 **IF IN DOUBT PLEASE DON'T USE**
@@ -76,18 +86,25 @@ In light of these ongoing issues, we are accelerating the implementation of the 
    - **Advanced Features**:
    Includes hard-wired pain score features and a cloud facility for enhanced monitoring and data management.
 
+Inspiration Health website: https://inspirationhealthcaregroup.com/product/micrel-rythmic-evolution-yellow-2/
+
 **Conclusion:**
 
 We acknowledge the challenges posed by the current situation and appreciate your patience and cooperation. The safety of our patients is our utmost priority, and we are working tirelessly to resolve these issues. In the interim, please adhere to the outlined actions to ensure patient safety and effective pain management.
 
-If you have any questions or require further information, please do not hesitate to contact the Pain Team or the undersigned.
+If you have any questions or require further information, please do not hesitate to contact the Pain Team.
 
 Yours sincerely,
 
 Lydia Ashton  
 Alan Race  
 Pain Team  
-[Contact Information]  
-[Trust Name]
 
 Please ensure this alert is disseminated promptly to all relevant staff.
+
+
+
+## Appendix 1
+
+
+![Pajunk System considered.](Slide1.jpeg)
